@@ -1,8 +1,0 @@
-<span class="twemoji">
-    {% include ".icons/material/weather-night/dark-mode.svg" %} 
-    {% include ".icons/material/weather-sunny/sun.svg" %} 
-  </span>
-
-
-
-
