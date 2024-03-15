@@ -1,0 +1,201 @@
+# Project Overview/Information
+site_name: My GitHub Pages
+site_author: Nobody
+site_url: https://xboltzmann.github.io/home/
+repo_name: home
+repo_url: https://github.com/xboltzmann/home/
+edit_uri: edit/main/docs/
+copyright: Copyright &copy; 2024 Nobody
+
+
+# Markdown_Extensions
+markdown_extensions:
+  - abbr #https://squidfunk.github.io/mkdocs-material/reference/tooltips/#adding-a-glossary
+  - admonition #https://squidfunk.github.io/mkdocs-material/reference/admonitions/#usage
+  - attr_list #https://python-markdown.github.io/extensions/attr_list/
+  # Adding Buttons: https://squidfunk.github.io/mkdocs-material/reference/buttons/#adding-buttons
+  - def_list #https://squidfunk.github.io/mkdocs-material/reference/lists/#using-definition-lists
+  - footnotes #https://python-markdown.github.io/extensions/footnotes/
+  # adding footnote references/content: https://squidfunk.github.io/mkdocs-material/reference/footnotes/#adding-footnote-references
+  - md_in_html #https://python-markdown.github.io/extensions/md_in_html/
+  # using annotations & admonitions https://squidfunk.github.io/mkdocs-material/reference/annotations/#usage
+  # using grids https://squidfunk.github.io/mkdocs-material/reference/grids/#usage
+  # image captions https://squidfunk.github.io/mkdocs-material/reference/images/#image-captions
+  - tables
+  # using data tables https://squidfunk.github.io/mkdocs-material/reference/data-tables/#usage
+  # column alignment https://squidfunk.github.io/mkdocs-material/reference/data-tables/#column-alignment
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.superfences: #https://facelessuser.github.io/pymdown-extensions/extensions/superfences/
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.highlight: #https://facelessuser.github.io/pymdown-extensions/extensions/highlight/
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+      auto_title: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys: #https://facelessuser.github.io/pymdown-extensions/extensions/keys/
+      separator: +
+      strict: false
+      camel_case: false
+  - pymdownx.details #https://facelessuser.github.io/pymdown-extensions/extensions/details/
+  - pymdownx.caret #https://facelessuser.github.io/pymdown-extensions/extensions/caret/
+  - pymdownx.critic #https://facelessuser.github.io/pymdown-extensions/extensions/critic/
+  - pymdownx.magiclink: #https://facelessuser.github.io/pymdown-extensions/extensions/magiclink/
+      user: xboltzmann
+      repo: home
+      repo_url_shorthand: true
+      social_url_shorthand: true
+      normalize_issue_symbols: true
+  - pymdownx.mark:
+      smart_mark: true
+  - pymdownx.tabbed:
+      alternate_style: true
+      combine_header_slug: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - pymdownx.snippets: #https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown-extensions/#snippets
+      auto_append:
+        - docs/includes/abbreviations.md #https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown-extensions/#snippets
+  - toc:
+      permalink: true 
+      title: On This Page
+
+  - pymdownx.emoji: #https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/#search
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+# Theme Configurations: https://www.mkdocs.org/user-guide/configuration/#theme
+theme:
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  name: material
+  font:
+    code: Roboto Mono
+    text: Roboto
+  icon:
+    repo: fontawesome/brands/github
+    admonition: 
+      note: octicons/tag-16
+      abstract: octicons/checklist-16
+      info: octicons/info-16
+      tip: octicons/squirrel-16
+      success: octicons/check-16
+      question: octicons/question-16
+      warning: octicons/alert-16
+      failure: octicons/x-circle-16
+      danger: octicons/zap-16
+      bug: octicons/bug-16
+      example: octicons/beaker-16
+      quote: octicons/quote-16
+  custom_dir: overrides
+  language: en
+  features:
+    - announce.dismiss
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.indexes
+    - navigation.expand
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.tracking
+    - navigation.sections
+    - navigation.path
+    - navigation.prune
+    - toc.follow
+    - toc.integrate
+    - content.tooltips #https://squidfunk.github.io/mkdocs-material/reference/tooltips/#adding-tooltips
+    - content.tabs.link
+    - search.suggest
+    - search.highlight
+
+# Additional configuration
+extra:
+  generator: false
+  status:
+    new: Recently added
+    deprecated: Depreciated
+  #analytics:
+    #provider: google
+    #property: !ENV GOOGLE_ANALYTICS_KEY
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/xboltzmann
+    #- icon: fontawesome/brands/twitter
+    #  link: https://twitter.com/N0FACEG0D
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/eduardboltzmann/
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+# Plugins
+plugins:
+  - blog:
+  #  blog_dir: writing
+  #  blog_toc: true
+  - search:
+      separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  #- minify:
+  #    minify_html: true
+  #- rss: #https://squidfunk.github.io/mkdocs-material/setup/setting-up-a-blog/
+  #    enabled: !ENV [CI, false]
+  #    match_path: blog/posts/.* 
+  #    date_from_meta:
+  #      as_creation: date
+  #    categories:
+  #      - categories
+  #      - tags
+
+watch:
+  - docs/includes
+
+validation:
+  omitted_files: warn
+  absolute_links: warn
+  unrecognized_links: warn
+
+# Documentation Layout
+nav:
+ - home:
+    - blog: 'index.md'
+    #- intro: 'index.md' # -> interests, goals, aspirations, learning, through reps & iterations
+    - travels: 'travels.md'
+    - internet homies: 'ehomies.md' # -> people I learn from on the internet, providing indepth insight/knowledge
+    - accountability: 'log.md' 
+    - resource: 'resource.md'     
+ - writing: 'writing/index.md'
+ - aspirations: 'aspirations.md'
+    #- journal: "writing/journal/life.md"
+    #- journal: "life.md"
+    #- travels: 
+# - projects:
+#    - github pages: 
+
+     # - words&phrases that hit: 
+     # - travels: 
+     # - learning journal: # "time invested, simplified notes, struggles, metrics, why"
+# - accomplishment tracker: "(No matter how small is an improvement nonetheless)"
+# - contact: 'contact.md'
+

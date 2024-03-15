@@ -1,0 +1,7 @@
+.cache/
+site/
+.DS_Store
+**venv
+.vscode/**
+custom_theme/
+
