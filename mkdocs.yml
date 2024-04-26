@@ -1,11 +1,14 @@
 # Project Overview/Information
-site_name: My GitHub Pages
+site_name: Internet Journal
 site_author: Nobody
+site_description: >-
+  My Internet Journal
 site_url: https://xboltzmann.github.io/home/
 repo_name: home
 repo_url: https://github.com/xboltzmann/home/
 edit_uri: edit/main/docs/
-copyright: Copyright &copy; 2024 Nobody
+copyright: 
+  Copyright &copy; 2024 Nobody
 
 
 # Markdown_Extensions
@@ -52,6 +55,7 @@ markdown_extensions:
       normalize_issue_symbols: true
   - pymdownx.mark:
       smart_mark: true
+  - pymdownx.smartsymbols
   - pymdownx.tabbed:
       alternate_style: true
       combine_header_slug: true
@@ -103,21 +107,21 @@ theme:
       bug: octicons/bug-16
       example: octicons/beaker-16
       quote: octicons/quote-16
-  custom_dir: overrides
+  #custom_dir: overrides
   language: en
   features:
     - announce.dismiss
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.instant.progress
-    - navigation.indexes
+    #- navigation.indexes
     - navigation.expand
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.tracking
     - navigation.sections
     - navigation.path
-    - navigation.prune
+    #- navigation.prune
     - toc.follow
     - toc.integrate
     - content.tooltips #https://squidfunk.github.io/mkdocs-material/reference/tooltips/#adding-tooltips
@@ -127,13 +131,14 @@ theme:
 
 # Additional configuration
 extra:
+  blog:
+    docs_dir: blog
+    blog_toc: true
+    post_dir: blog/posts
   generator: false
   status:
     new: Recently added
     deprecated: Depreciated
-  #analytics:
-    #provider: google
-    #property: !ENV GOOGLE_ANALYTICS_KEY
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/xboltzmann
@@ -152,21 +157,10 @@ extra_javascript:
 
 # Plugins
 plugins:
-  - blog:
-  #  blog_dir: writing
-  #  blog_toc: true
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
-  #- minify:
-  #    minify_html: true
-  #- rss: #https://squidfunk.github.io/mkdocs-material/setup/setting-up-a-blog/
-  #    enabled: !ENV [CI, false]
-  #    match_path: blog/posts/.* 
-  #    date_from_meta:
-  #      as_creation: date
-  #    categories:
-  #      - categories
-  #      - tags
+  - minify:
+      minify_html: true
 
 watch:
   - docs/includes
@@ -176,26 +170,21 @@ validation:
   absolute_links: warn
   unrecognized_links: warn
 
-# Documentation Layout
+# Page Layout/Tree
 nav:
- - home:
-    - blog: 'index.md'
-    #- intro: 'index.md' # -> interests, goals, aspirations, learning, through reps & iterations
+  - home: 
+    - life: index.md
+    - interests: interests.md
+    - aspirations: aspirations.md
     - travels: 'travels.md'
     - internet homies: 'ehomies.md' # -> people I learn from on the internet, providing indepth insight/knowledge
-    - accountability: 'log.md' 
-    - resource: 'resource.md'     
- - writing: 'writing/index.md'
- - aspirations: 'aspirations.md'
-    #- journal: "writing/journal/life.md"
-    #- journal: "life.md"
-    #- travels: 
-# - projects:
-#    - github pages: 
-
-     # - words&phrases that hit: 
-     # - travels: 
-     # - learning journal: # "time invested, simplified notes, struggles, metrics, why"
-# - accomplishment tracker: "(No matter how small is an improvement nonetheless)"
-# - contact: 'contact.md'
-
+    - accountability: 'accountability.md' 
+    - resource: 'resource.md'
+  - blog:
+    - blog/index.md    
+  - writing: 
+    - writing/index.md
+    - just words: writing/words.md
+  - learning: learning/index.md
+  - projects: projects.md
+  - contact: contact.md

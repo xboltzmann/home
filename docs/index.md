@@ -7,7 +7,6 @@
 
 * `Age` - 
 * `Sex` - 
-* `Sibling(s)` - 
 * `Born-Location` - 
 * `Interest(s)` - 
 * `Travels` - 

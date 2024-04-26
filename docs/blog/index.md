@@ -1,2 +1,3 @@
 # Blog
 
+:material-earth:{ .earth }

@@ -1,0 +1,7 @@
+authors:
+  xboltzmann:
+    name: Nobody        # Author name
+    description: Creator   # Author description
+    #avatar: url         # Author avatar
+    #slug: url           # Author profile slug
+    url: https://github.com/xboltzmann            # Author website URL

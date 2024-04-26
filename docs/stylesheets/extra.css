@@ -2,6 +2,43 @@
     color: #EE0F0F;
   }
 
+.earth {
+  color-scheme: var(--md-primary-fg-color--light);
+  color: #78B2D9;
+}
+
+.reddit {
+  color: #ee470f;
+}
+
+.instagram {
+  color: #b08abb;
+}
+
+.facebook {
+  color: #3269df;
+}
+
+.twitter {
+  color: #009cfd;
+}
+
+.google {
+  color: antiquewhite;
+   > .child1 {
+    color: blue;
+    > .child2 {
+      color: red;
+      > .child3 {
+        color: green;
+        > .child4 {
+        color: yellow;
+      }
+    }
+  }
+}
+}
+
   @keyframes heart {
     0%, 40%, 80%, 100% {
       transform: scale(1);
