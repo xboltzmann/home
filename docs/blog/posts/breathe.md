@@ -13,8 +13,16 @@ authors:
 
 # The Lost Art of Breathing
 
-Complex & not binary
+Book Source: [Breath by James Nestor](https://www.google.com/books/edition/Breath/6lS9DwAAQBAJ?hl=en&gbpv=1&printsec=frontcover)
 
-Unconsciously = survival
+## Notes
 
-Consciously = durability, strength, extension, mindful, longevity, 
+- Complex & not binary
+
+- Unconsciously = survival
+
+- Consciously = durability, strength, extension, mindful, longevity, 
+
+## Actionable
+
+- Breathe through the nose

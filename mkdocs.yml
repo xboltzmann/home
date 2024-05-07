@@ -59,6 +59,7 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
       combine_header_slug: true
+      
   - pymdownx.betterem:
       smart_enable: all
   - pymdownx.tasklist:
@@ -157,6 +158,14 @@ extra_javascript:
 
 # Plugins
 plugins:
+  - blog:
+  - rss:
+      match_path: blog/posts/.* 
+      date_from_meta:
+        as_creation: date
+      categories:
+        - categories
+        - tags 
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - minify:

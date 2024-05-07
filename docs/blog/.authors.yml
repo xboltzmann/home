@@ -2,6 +2,12 @@ authors:
   xboltzmann:
     name: Nobody        # Author name
     description: Creator   # Author description
-    #avatar: url         # Author avatar
+    avatar: https://github.com/xboltzmann.png         # Author avatar
     #slug: url           # Author profile slug
     url: https://github.com/xboltzmann            # Author website URL
+
+  Nobody:
+    name: Nobody
+    description: Nobody
+    avatar: https://github.com/xboltzmann.png 
+    url: https://github.com/xboltzmann  

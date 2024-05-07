@@ -23,4 +23,6 @@
 
 ## 🤖 LLM/ML & AI
 
+Local RAG Agent via Python + Streamlit + Embedchain + Groq (Llama3)
+
 ## 🧑🏾‍💻 Web Development: HTML, JS, CSS, React, ++

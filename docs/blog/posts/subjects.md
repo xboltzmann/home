@@ -1,6 +1,6 @@
 ---
 draft: False
-date: 2024
+date: 2024-01-31
 slug: Subjects to Write
 categories:
   - Personal
