@@ -1,40 +1,58 @@
 
-# Bonjour
+# hola, bonjour, hello :material-human-greeting: :material-account-heart:
 
-*insert-background-intro*
+!!! warning "Personal project btw :octicons-project-16:"
+    ***work-in-progression***
+    
+    ***it's hella messy & ugly rn***
 
-## Introduction Life
+    ***cumback periodically for updates or holla via socials***
 
-* `Age` - 
-* `Sex` - 
-* `Born-Location` - 
-* `Interest(s)` - 
-* `Travels` - 
-* `Company` - 
-* `Home-Location` - 
-* `Food(s)` - 
-* `Understand` - 
-* `Characteristics` - 
-* `Knowledge` - 
-* `Entertainment` - 
-* `Recommendations` - 
 
-## 'Professional-Career'
 
-    Middle-School
-    High-School
-    General Educational Development
-    Community College
-    University
+## introduction
+!!! note ""
+
+!!! note inline ""
+    * `Age` - 
+    * `Born-Location` - 
+    * `Home-Location` - 
+    * `Interest(s)` - 
+    * `Company` - 
+    * `Knowledge` - 
+    * `Entertainment` - 
+
+!!! note inline end ""
+    To the right
+
+    To the right
+
+    To the right
+
+    To the left
+
+    To the left
+
+    
+
+!!! note ""
+    * `Elementary-School` - 
+    * `Middle-School` - 
+    * `High-School` - 
+    * `General Educational Development` - 
+    * `Community College` - 
+    * `University` - 
+    * `Major-Studies` - 
+
+
+
+!!! note ""
+
+
         
-## Aesthetically Clean & Beautiful
+## experiences & work-history
+ * Staff Accountant @ Travel Industry: 2019 - 2023
 
-    :fontawesome-brands-youtube:{ .youtube }
-    :material-api:
-    :octicons-heart-fill-24:{ .heart }
-    :simple-github:
-    :material-git:
-    :octicons-code-square-16:
 
 :fontawesome-brands-youtube:{ .youtube }
 :material-api:

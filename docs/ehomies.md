@@ -11,6 +11,7 @@
 - [Chris Williamson](https://www.youtube.com/@ChrisWillx)
 - [Naval Ravikant](https://www.youtube.com/@NavalR)
 - [Tim Ferris](https://www.youtube.com/@timferriss)
+- [Dan Koe](https://www.youtube.com/@DanKoeTalks)
 - [Israel Adesanya](https://www.youtube.com/@FreeStylebender):  Socials: [INSTAGRAM](https://www.instagram.com/stylebender/?hl=en) - [X](https://twitter.com/stylebender?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
 ## 👨🏽‍⚕️ Others

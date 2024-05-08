@@ -1,25 +1,31 @@
 
 
-!!! info 
-    all my projects :octicons-code-square-16:
+!!! Projects
+    TBA :octicons-code-square-16:
+
+
+=== "Projects"
+    ```{.py3 title="TBA"}
+    ```
+
 
 <div class="grid cards" markdown>
 
-- :octicons-heart-fill-24:{ .heart } __BrandMe__ helping creators grow
+<!-- - :octicons-heart-fill-24:{ .heart } __BrandMe__ helping creators grow
 - :fontawesome-brands-html5: __HTML__ for content and structure
 - :fontawesome-brands-js: __JavaScript__ for interactivity
-- :fontawesome-brands-css3: __CSS__ for text running out of boxes
+- :fontawesome-brands-css3: __CSS__ for text running out of boxes -->
+<!-- - :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
 - :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
 - :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
-- :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
-- :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
+- :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh? -->
 
 
 </div>
 
 <div class="grid cards" markdown>
 
--   :material-clock-fast:{ .lg .middle } __Set up in 5 minutes__
+<!-- -   :material-clock-fast:{ .lg .middle } __Set up in 5 minutes__
 
     ---
 
@@ -50,6 +56,6 @@
 
     Material for MkDocs is licensed under MIT and available on [GitHub]
 
-    [:octicons-arrow-right-24: License](#)
+    [:octicons-arrow-right-24: License](#) -->
 
 </div>
