@@ -13,8 +13,8 @@ description: Sports, Anime, Movies, Shows, Games, Chef, Eat
 
 - Coding
 - Reading
+- Writing
 - Traveling/Exploring
-- 
 
 ```
 
@@ -25,7 +25,7 @@ description: Sports, Anime, Movies, Shows, Games, Chef, Eat
 - Vietnamese
 - Chinese
 - Thai
-- 
+- Italian
 
 ```
 
@@ -36,6 +36,7 @@ description: Sports, Anime, Movies, Shows, Games, Chef, Eat
 - Basketball
 - MMA/UFC
 - Football
+- Esports
 
 ```
 
@@ -75,7 +76,10 @@ description: Sports, Anime, Movies, Shows, Games, Chef, Eat
 
 - Counterstrike 1.6
 - Maplestory
-- Diablo 2
+- Starcraft & Broodwar
+- 2Moons
+- Diablo II & Diablo III
+- World of Warcraft
 - League of Legends
 
 ```

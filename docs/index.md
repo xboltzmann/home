@@ -33,8 +33,6 @@
 
     To the left
 
-    
-
 !!! note ""
     * `Elementary-School` - 
     * `Middle-School` - 
@@ -45,11 +43,9 @@
     * `Major-Studies` - 
 
 
-
 !!! note ""
 
 
-        
 ## experiences & work-history
  * Staff Accountant @ Travel Industry: 2019 - 2023
 

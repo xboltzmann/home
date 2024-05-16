@@ -1,11 +1,11 @@
 # Built by 
 [![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
 
-## Examples
+## Cheatsheet & Examples
 
 :material-weather-night:
 
-=== "Labels & Bottons"
+=== "Labels & Buttons"
     !!! note ""
         [Adding Buttons, Primary Buttons & Adding Icon Buttons](https://squidfunk.github.io/mkdocs-material/reference/buttons/)
 

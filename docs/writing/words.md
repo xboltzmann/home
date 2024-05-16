@@ -1,6 +1,10 @@
-!!! quote ":octicons-heart-fill-24:{ .heart }"
+!!! note ""
     ``` title=""
     words & phrases that hit: music, lyrics, books, posts, etc.
     ``` 
 
-“You Do Not Know What Treasures Are Within You”
+ :octicons-heart-fill-24:{ .heart }
+
+"You do not know what treasures are within you." 
+
+Sleep is an investment in tomorrow.

@@ -1,5 +1,10 @@
 # 🧑🏽‍🎓 Student & Always Learning
 
+
+``` title=""
+                                    all i know is that i know nothing at all
+``` 
+
 !!! quote ":octicons-heart-fill-24:{ .heart }"
     
     ``` title="📖 How to become an Expert"
@@ -21,8 +26,12 @@
 
 ## Coding
 
+## Frontend
+
+## Backend
+
 ## 🤖 LLM/ML & AI
 
 Local RAG Agent via Python + Streamlit + Embedchain + Groq (Llama3)
 
-## 🧑🏾‍💻 Web Development: HTML, JS, CSS, React, ++
+## 🧑🏾‍💻 Web Development: HTML, JS, CSS, React, Typescript, ++

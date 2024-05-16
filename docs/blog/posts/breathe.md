@@ -21,8 +21,10 @@ Book Source: [Breath by James Nestor](https://www.google.com/books/edition/Breat
 
 - Unconsciously = survival
 
-- Consciously = durability, strength, extension, mindful, longevity, 
+- Consciously = durability, strength, extension, mindful, longevity, rejuvenate
+  
+- The ability to breathe correctly can heal and prevent a lot of life ailments (asthma, snoring, autoimmune disease, scoliosis)
 
 ## Actionable
 
-- Breathe through the nose
+- Breathe through the nose -> inhale 5.5 seconds, exhale 5.5 seconds
