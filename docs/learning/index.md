@@ -22,6 +22,8 @@
     Time Invested with Metrics & Notes (What I learned simplified/explained)
 
     Improvements via Reps & Iteration
+
+    Seek the Truth
     ```
 
 ## Coding
@@ -29,9 +31,10 @@
 ## Frontend
 
 ## Backend
+- [Supabase](https://supabase.com/)
 
 ## 🤖 LLM/ML & AI
 
 Local RAG Agent via Python + Streamlit + Embedchain + Groq (Llama3)
 
-## 🧑🏾‍💻 Web Development: HTML, JS, CSS, React, Typescript, ++
+## 🧑🏾‍💻 Web Development: HTML, JS, CSS, React, Typescript, Nextjs, ++

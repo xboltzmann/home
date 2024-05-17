@@ -1,7 +1,7 @@
 ---
 draft: False
 date: 2024-05-07
-slug: Python & LLM-ML
+slug: Python-and-LLM+ML
 categories:
   - Technology
   - Learn

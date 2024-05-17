@@ -1,6 +1,6 @@
 # Contact & Socials
 
-!!! info
+!!! info ""
     Come find me and give me a holla
 
 :fontawesome-brands-google:{ .google .child1 .child2 .child3 }

@@ -1,6 +1,6 @@
 ---
 title: The Growth Mindset
-draft: False
+draft: True
 date: 2024-04-15
 slug: Growth Mindset
 categories:
