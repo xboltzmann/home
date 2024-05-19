@@ -2,7 +2,8 @@
 
 !!! quote ""
     ``` title=""
-                                                 all i know is that i know nothing at all
+    <center>all i know is that i know nothing at all<center>
+
     ``` 
 
 

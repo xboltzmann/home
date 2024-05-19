@@ -2,11 +2,11 @@
 # hola, bonjour, hello :material-human-greeting: :material-account-heart:
 
 !!! warning "Personal project btw :octicons-project-16:"
-    ***work-in-progression***
+    <center>***work-in-progression***<center>
     
-    ***it's hella messy & ugly rn***
+    <center>***it's hella messy & ugly rn***<center>
 
-    ***cumback periodically for updates or holla via socials***
+    <center>***cumback periodically for updates or holla via socials***<center>
 
 
 

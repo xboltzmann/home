@@ -1,7 +1,7 @@
 # Contact & Socials
 
 !!! info ""
-    Come find me and give me a holla
+    <center>Come find me and give me a holla<center>
 
 :fontawesome-brands-google:{ .google .child1 .child2 .child3 }
 --

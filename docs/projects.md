@@ -1,11 +1,11 @@
 
 
 !!! Projects
-    TBA :octicons-code-square-16:
+    <center>TBA :octicons-code-square-16:<center>
 
 
 === "Projects"
-    ```{.py3 title="TBA"}
+    ```{.py3 title=<center>"TBA"<center>}
     ```
 
 

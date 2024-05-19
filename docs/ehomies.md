@@ -1,6 +1,6 @@
 # Mentors - Homies
 
-*insert-ehomies-intro*
+<center>*insert-ehomies-intro*<center>
 
 ## 🧑🏽‍🏫 Laoshu 
 

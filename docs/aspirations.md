@@ -1,9 +1,9 @@
 !!! quote ""
     ``` title=""
-    a hope or ambition of achieving something.
+    <center>a hope or ambition of achieving something.<center>
 
-    the driving feeling you get when thinking about what you want to achieve in life
+    <center>the driving feeling you get when thinking about what you want to achieve in life<center>
 
-    a strong desire to achieve something high or great
+    <center>a strong desire to achieve something high or great<center>
     ``` 
 

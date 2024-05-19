@@ -1,6 +1,7 @@
 !!! note ""
     ``` title=""
     words & phrases that hit: music, lyrics, books, posts, etc.
+    <center>words & phrases that hit: music, lyrics, books, posts, etc.<center>
     ``` 
 
  :octicons-heart-fill-24:{ .heart }

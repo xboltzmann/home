@@ -3,9 +3,9 @@ title: My Interests
 description: Sports, Anime, Movies, Shows, Games, Chef, Eat
 ---
 
-*insert-interests-stories*
+<center>*insert-interests-stories*<center>
 
-:fontawesome-regular-face-laugh-wink:
+<center>:fontawesome-regular-face-laugh-wink:<center>
 
 ## 🌱 Create, Build & Grow
 

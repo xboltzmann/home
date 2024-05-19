@@ -25,9 +25,9 @@ Book Source: [Breath by James Nestor](https://www.google.com/books/edition/Breat
 
 ## Highlights
 
-1. Consciously controlling breathing can significantly influence our nervous system function, sleep quality, heartbeat, and blood flow. [page 44]
+1. Consciously controlling breathing can significantly influence our nervous system function, sleep quality, heartbeat, and blood flow. [pg. 44]
 
-2. In a single breath, more molecules of air will pass through your nose than all the grains of sand of all the world's beaches-- trillions and trillions of them. [page 44]
+2. In a single breath, more molecules of air will pass through your nose than all the grains of sand of all the world's beaches-- trillions and trillions of them. [pg. 44]
 
 3. Breathing is a power switch to a vast network called the autonomic nervous system - two sections of this system: 
 
