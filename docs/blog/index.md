@@ -1,6 +1,6 @@
 # Blog
 
-:material-earth:{ .earth }
+<center>:material-earth:{ .earth }
 
 !!! note ""
 
