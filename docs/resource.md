@@ -1,5 +1,7 @@
-# Built by 
-[![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
+# Built with 
+
+:octicons-heart-fill-16:{ .heart } [![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/) :octicons-heart-fill-16:{ .heart }
+
 
 ## Cheatsheet & Examples
 

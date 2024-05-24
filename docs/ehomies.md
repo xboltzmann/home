@@ -1,8 +1,16 @@
-# Mentors - Homies
+# Mentors, Teachers, Laoshu, Senseis - Homies
+<center>
+    ``` title=""
 
-<center>*insert-ehomies-intro*<center>
+    humans I admire and learn from on the internet 
+    whom have resonated & provided me indepth insight, knowledge and guidance
+    through different lenses, experiences & perspectives 
+    that keeps me curious, helps me better understand and 
+    most importantly to keep moving forward and continuously put in the work and grow
 
-## 🧑🏽‍🏫 Laoshu 
+    ``` 
+
+## 🧑🏽‍🏫 The humans 
 
 - [Joe Rogan](https://www.youtube.com/@joerogan)
 - [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
@@ -14,8 +22,13 @@
 - [Dan Koe](https://www.youtube.com/@DanKoeTalks)
 - [Israel Adesanya](https://www.youtube.com/@FreeStylebender):  Socials: [INSTAGRAM](https://www.instagram.com/stylebender/?hl=en) - [X](https://twitter.com/stylebender?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
-## 👨🏽‍⚕️ Others
+
+## 👨🏽‍⚕️ The other humans
 
 - [Paul Conti, MD](https://drpaulconti.com/) - Psychiatrist, Trauma, Mental illness, Impact of stress 
 - [Bessel van der Kolk](https://www.besselvanderkolk.com/) - Psychiatrist, PTSD, Development, Memory
 - [Dr. Matt Walker](https://www.sleepdiplomat.com/) - Sleep Expert, Impact of sleep on human health & brain-function
+
+
+## The faceless 
+

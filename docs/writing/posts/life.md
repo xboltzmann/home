@@ -1,7 +1,7 @@
 # Life Log
 
 
-## My PTSD Experience in Corporate
+## My PTSD Experience in Corporate Trapfoolery
 
 I had a manager that used his corporate-position/title to enforce something - he said do this because 'I am your manager'. But I trained this 'manager' to review and approve my work and have walked through all my procedures yet he constantly needs explanation and walkthroughs numerous times. One of the most incompetent privileged people I've ever met that made no efforts to learn nor understand. The corporate culture is crazy, people getting promoted internally from homies that they've connections with from prior jobs, schools - creating something very similar to high-school cliques.
 

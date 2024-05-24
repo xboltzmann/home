@@ -3,6 +3,7 @@ title: Travel Logs
 description: My Travels, Upcoming, Future-Travels, Visited Log
 ---
 
+## Travels & Exploration
 
 **I use to have neutral / sorta negative feelings towards traveling. This is solely due to my personal experiences - whether being forced to travel or other reasons I can't seem to verbalize / explain in words (right now).**
 
@@ -11,14 +12,14 @@ description: My Travels, Upcoming, Future-Travels, Visited Log
 **And through those experiences I've fallen in love with traveling.**
 
 
-
-## 🧳 Upcoming
+## 🧳 Upcoming Travels
 
 ``` {.py3 title="Incoming"}
-- Milan, Italy (Summer 2024)
+- Milan-Como-Gargnano, Italy (Summer-June 2024)
+- Switzerland (Summer-June 2024)
 ```
 
-## 🧭 Future-Travels
+## 🧭 Future-Yet-To-Be-Planned-Travels
 
 ``` {.py3 title="Goals"}
 - Asia 
