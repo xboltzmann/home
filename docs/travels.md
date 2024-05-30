@@ -66,7 +66,7 @@ description: My Travels, Upcoming, Future-Travels, Visited Log
     4. Split, Croatia
     5. Dubrovnik, Croatia
     6. Cabo San Lucas, Mexico
-    7. Tulum, Mexico
+    7. Tulum, Mexico (Jan 2023)
     8. TBC
    
     ```

@@ -1,4 +1,4 @@
-# 🧑🏽‍🎓 Student & Always Learning
+# 🧑🏽‍🎓 Lifes' Student & Always Learning
 
 !!! quote ""
     <center>***all i know is that i know nothing at all***

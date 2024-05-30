@@ -28,6 +28,7 @@
 - [Paul Conti, MD](https://drpaulconti.com/) - Psychiatrist, Trauma, Mental illness, Impact of stress 
 - [Bessel van der Kolk](https://www.besselvanderkolk.com/) - Psychiatrist, PTSD, Development, Memory
 - [Dr. Matt Walker](https://www.sleepdiplomat.com/) - Sleep Expert, Impact of sleep on human health & brain-function
+- [Dr. James Hollis](https://jameshollis.net/) - Jungian psychoanalyst, Self-Ego, Purpose in Life, 
 
 
 ## The faceless 
