@@ -7,6 +7,6 @@
 
     a strong desire to achieve something high or great
 
-    take action, make mistakes - move forward with a sense of progress, learn, grow
+    take action, make mistakes, improve - move forward with a sense of progress, to understand, learn, grow
     ``` 
 

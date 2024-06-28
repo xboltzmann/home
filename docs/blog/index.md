@@ -4,4 +4,4 @@
 
 !!! note ""
 
-    __*writing whatever the fuck I want, when I want with no restrictions, all from the mind & heart, no ill-intentions, no favoritism, all love*__
+    __*writing whatever the fuck I want, when I want with no restrictions nor limitations, all from the mind & heart, no ill-intentions, no favoritism, all love*__

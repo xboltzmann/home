@@ -1,7 +1,7 @@
 <center>
     ``` title=""
 
-        words & phrases that hit: music, lyrics, books, posts, etc.
+        words & phrases that hit: music, lyrics, books, poems, posts, etc.
 
     ``` 
 

@@ -13,13 +13,13 @@
 !!! note ""
 
 !!! note inline ""
-    * `Age` - 
-    * `Born-Location` - 
-    * `Home-Location` - 
-    * `Interest(s)` - 
-    * `Company` - 
-    * `Knowledge` - 
-    * `Entertainment` - 
+    * `Age` - 69
+    * `Born-Location` - East Coast, USA
+    * `Current-Location` - West Coast, USA
+    * `Interest(s)` - Technology, Health, Improvement, Travel, Life
+    * `Company` - Funemployed AKA Unemployed 
+    * `Knowledge` - Nada
+    * `Entertainment` - Music, Anime, Shows/Movies (stimulating), Reading, Curiosity & Learning
 
 !!! note inline end ""
     To the right
@@ -35,13 +35,13 @@
     
 
 !!! note ""
-    * `Elementary-School` - 
-    * `Middle-School` - 
-    * `High-School` - 
-    * `General Educational Development` - 
-    * `Community College` - 
-    * `University` - 
-    * `Major-Studies` - 
+    * `Elementary-School` - Somewhere
+    * `Middle-School` - Somewhere overthere
+    * `High-School` - Drop out
+    * `General Educational Development` - 2014
+    * `Community College` - 2016
+    * `University` - 2018
+    * `Major-Studies` - Bachelor of Business Administration in Accounting
 
 
 !!! note ""

@@ -15,6 +15,7 @@ description: Sports, Anime, Movies, Shows, Games, Chef, Eat
 - Reading
 - Writing
 - Traveling/Exploring
+- Life
 
 ```
 
