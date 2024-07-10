@@ -31,23 +31,24 @@ We arrived at our accommodations in the late evening (9pm) and settled in and lo
 After completing the meal, the waitress said it is a tradition that after your first meal (I think) you are to take a shot of liquor. She was hella sweet and kind and said it was on the house.
 
 ## June 6 : Day 2: City-Exploration
-Today was the day of city exploration. One of my favorite things to do aka do what the locals do and get acclimated via taking the public transit (Red M line), walk around the city, check out parks, churches, people watch, understand the structure of the city with absolutely no fixed/strict plans but to just wander and enjoy.
+Today was the day of city exploration. One of my favorite things to do aka do what the locals do, immersify and acclimate myself via taking the public transit (Red M line), walk around the city, check out parks, churches, people watch, understand the structure of the city with absolutely no fixed/strict plans nor time constraints and to just wander, get a little lost and enjoy/appreciate. This is my way of getting comfortable in a new city - a new place that I've never been to
 
-We departed early noon/afternoon (12:00-13:00) to find the transit (12ish minutes walk from accommodations). Was hella confused at first and couldn't really understand it (dumb small-brained americanos) but after awhile we purchased a day ticket (8euros) which can take transit all day. Unlike the grid system in NYC, Milan has a circular-area layer system (sorry a little confusing but bare with me), whereas the center/heart of Milan is M1, and the further you go out it goes to M2, M3, M4, etc.
+We departed early noon/afternoon (12:00-13:00) to find the train station transit (12ish minutes walk from accommodations). Struggled and was a bit confused at first and couldn't really understand it (dumb small-brained americanos) but after awhile we sorta made some sense of it and just followed the colors and decided where our destination. We decided to purchase a day ticket (8euros) which can take transit all day within the M2-Zone. Unlike the grid system in NYC, Milan has a circular-area-zone system (sorry a little confusing but bare with me), whereas the center/heart of Milan is M1, and the further you go out it goes to M2, M3, M4, etc.
 
-We got out to the city and wandered around and somehow ended up at Parco Sempione, which was beautiful and grand. The entrance was like entering a castle into a huge park and unbeknownst to me, this was absolutely free. We explored the park and there was so much space and seats, as such, we sat down and chilled there for a bit and this is a must visit.
+We got out to the city and wandered around and somehow ended up at Parco Sempione, which was beautiful and grand. The entrance was like entering a castle into a huge park and unbeknownst to me, this was free. We explored the park and there was so much space and ample benches & seating, as such, we sat down on a bench and chilled there for a bit to people watch. Highly recommend visiting here if you are strolling around Milan.
 
-After, we headed south-westish and visited Basilica di Sant'Ambrogio & Santa Maria delle Grazie (also free) - so dope. The structure, architecture and the way they are able to maintain is so well is unreal. And by the way, when entering Basilica (churches), don't forget to take off your cap.
+After, we headed south-westish and visited Basilica di Sant'Ambrogio & Santa Maria delle Grazie (also free) - so dope. The structure, architecture and the way they are able to maintain it so well is unreal. And by the way, when entering Basilica (churches), don't forget to take off your cap.
 
 Then, we headed and walked through the shopping district area towards Duomo di Milano, but we never got there and decided to head back home and figure out dinner.
 
-For dinner, we found a spot (25-30 minutes walk) and after all day of walking, we was famished and got pretty much a buffet (2x pizzas, muscles & clams, 2x pasta). It's hella funny when they look at us and get a giggle in seeing us ordering food for literally a family - which also probably gave them a good idea that we were dumb small-brained fat americanos.
+For dinner, we found a spot (25-30 minutes walk) and after all day of walking, we was famished and got pretty much a buffet (2x pizzas, muscles & clams, 2x pasta). It's hella funny when the waiters/waitress and people around look at us and get a giggle in seeing us ordering food for literally a family - which also probably gave them a good idea that we were dumb small-brained fat americanos. We finished grubbing and had leftovers for take-away aka Italians' way of saying to-go/take-out.
 
-Productive day of exploring and lots of walking (30K steps).
+A very productive day of exploring and lots of walking (30K steps).
 
 ## June 7 : Day 3: Departure
-We depart from Milan today and drive up to Lugano, Switzerland (70ish-minutes from where we stayed, insanely close)
+We depart from Milan today and drive up to Lugano, Switzerland (70ish-minutes from where we stayed, insanely close).
 
+TBC
 
 # Lugano & Paradiso, Switzerland : June 7 - June 14
 

@@ -73,17 +73,18 @@ description: My Travels, Upcoming, Future-Travels, Visited Log
 
     ```{.py3 title="Globetrotter"}
 
-    1. Montreal, Canada (2018?)
-    2. Vancouver, Canada (2018?)
-    3. Amsterdam, Netherlands (2017?)
-    4. Split, Croatia (2017?)
-    5. Dubrovnik, Croatia (2017?)
-    6. Cabo San Lucas, Mexico (2016?)
-    7. Tulum, Mexico (Jan 2023)
-    8. Milan-Como-Gargnano, Italy (June 2024)
-    9. Como, Italy (June 2024)
+    1. Hong Kong (??)
+    2. Montreal, Canada (2018?)
+    3. Vancouver, Canada (2018?)
+    4. Amsterdam, Netherlands (2017?)
+    5. Split, Croatia (2017?)
+    6. Dubrovnik, Croatia (2017?)
+    7. Cabo San Lucas, Mexico (2016?)
+    8. Tulum, Mexico (Jan 2023)
+    9. Milan-Como-Gargnano, Italy (June 2024)
     10. Lugano-Lucerne, Switzerland (June 2024)
     11. TBC
+    12. TBC
    
     ```
 

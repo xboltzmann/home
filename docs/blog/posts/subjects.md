@@ -16,8 +16,11 @@ authors:
 
 ## Health
 - Breathe
+- Walk and/or Exercise
 
 ## Student
 - Growth Mindset
+- Read on what interests you
+- Learn constantly and consistently 
 
 ## Curiosity 

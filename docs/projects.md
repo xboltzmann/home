@@ -4,9 +4,19 @@
     <center>TBA :octicons-code-square-16:<center>
 
 
-=== "Projects"
-    ```{.py3 title=<center>"TBA"<center>}
-    ```
+
+<div class="grid cards" markdown>
+
+- :octicons-heart-fill-24:{ .heart } __BrandMe__ helping creators grow
+- :fontawesome-brands-html5: __HTML__ for content and structure
+- :fontawesome-brands-js: __JavaScript__ for interactivity
+- :fontawesome-brands-css3: __CSS__ for text running out of boxes -->
+<!-- - :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
+- :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
+- :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
+- :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh? 
+
+</div>
 
 
 <div class="grid cards" markdown>

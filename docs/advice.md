@@ -23,4 +23,6 @@
 4. Be transparent, honest, authentic and genuine - to create and foster a community of people whom share the same values, ethics, passion & interests
 
 
+## life
+
 

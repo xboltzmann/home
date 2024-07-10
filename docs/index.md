@@ -11,15 +11,17 @@
 
 ## introduction
 !!! note ""
+    I am a generalist, a student constantly learning - to leave the physical world a better place.
 
 !!! note inline ""
     * `Age` - 69
     * `Born-Location` - East Coast, USA
     * `Current-Location` - West Coast, USA
-    * `Interest(s)` - Technology, Health, Improvement, Travel, Life
+    * `Interest(s)` - Technology, Health, Improvement, Travel, Life, Growth, Learning, Creating/Building
     * `Company` - Funemployed AKA Unemployed 
     * `Knowledge` - Nada
-    * `Entertainment` - Music, Anime, Shows/Movies (stimulating), Reading, Curiosity & Learning
+    * `Entertainment` - Music (live), Anime, Shows/Movies (stimulating), Reading & Learning
+
 
 !!! note inline end ""
     To the right
@@ -38,17 +40,17 @@
     * `Elementary-School` - Somewhere
     * `Middle-School` - Somewhere overthere
     * `High-School` - Drop out
-    * `General Educational Development` - 2014
+    * `General Educational Development (GED)` - 2014
     * `Community College` - 2016
     * `University` - 2018
     * `Major-Studies` - Bachelor of Business Administration in Accounting
 
 
+
 !!! note ""
 
-
 ## experiences & work-history
- * Staff Accountant @ Travel Industry: 2019 - 2023
+ * Staff Accountant @ Travel Industry (Vacation Rentals, Experiences & Cruises):   2019 - 2023
 
 
 :fontawesome-brands-youtube:{ .youtube }

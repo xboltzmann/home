@@ -1,19 +1,19 @@
 # Contact & Socials
 
 !!! info ""
-    <center>Come find me and give me a holla<center>
+    <center>cum find me and give me a holla<center>
 
-:fontawesome-brands-google:{ .google .child1 .child2 .child3 }
+:fontawesome-brands-google:{ .google .child1 .child2 .child3 } mail: @ifuccyobitchjkluvu
 --
-:fontawesome-brands-youtube:{ .youtube }
+:fontawesome-brands-youtube:{ .youtube } @studentious
 --
-:fontawesome-brands-instagram:{ .instagram }
+:fontawesome-brands-instagram:{ .instagram } @nobodyknows
 --
-:fontawesome-brands-facebook:{ .facebook }
+:fontawesome-brands-facebook:{ .facebook } @nobodyknows
 --
-:fontawesome-brands-twitter:{ .twitter }
+:fontawesome-brands-twitter:{ .twitter } @nobodyknows
 --
-:fontawesome-brands-github:
+:fontawesome-brands-github: @nobodyknows
 --
-:fontawesome-brands-reddit:{ .reddit }
+:fontawesome-brands-reddit:{ .reddit } @nobodyknows
 --

@@ -12,6 +12,12 @@ authors:
   - Nobody
 ---
 
+``` title=""
+  
+  Source: [Andrew Huberman x Dr. David Yeager](https://www.youtube.com/watch?v=etEJrznE-c0&ab)
+
+``` 
+
 # The Growth Mindset
 
 Stress-enhancing, frustration is all a part of learning.
