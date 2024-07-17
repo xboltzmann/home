@@ -10,3 +10,5 @@
     take action, make mistakes, improve - move forward with a sense of progress, to understand, learn, grow
     ``` 
 
+
+I know that I was meant for a lot more

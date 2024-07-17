@@ -13,3 +13,6 @@
 
     Recognize, appreciate and acknowledge, no matter how small (the progress) - is an improvement nonetheless
 
+
+## question thyself
+1. If today were the last day of my life, would I want to do what I am about to do today?

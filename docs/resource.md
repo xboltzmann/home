@@ -2,6 +2,15 @@
 
 
 
+## Must Reads
+- [What are LLMS(Part 1)](https://datasci101.com/what-are-llms-part-1/)
+- [What are LLMS(Part 2)](https://datasci101.com/what-are-llms-part-2/)
+- [Attention Is All You Need, 2017](https://arxiv.org/pdf/1706.03762)
+- [What is the Turing Test?](https://plato.stanford.edu/entries/turing-test/)
+- [Datasheets for Datasets](https://arxiv.org/pdf/1803.09010)
+
+
+
 ## Definitions & Vocabulary
 
 ??? info
@@ -15,7 +24,6 @@
     |  `insert word`         | :fontawesome-solid-question: define |
     |  `insert word`         | :fontawesome-solid-question: define |
     |  `insert word`         | :fontawesome-solid-question: define | 
-
 
 
 
@@ -33,7 +41,6 @@
     :material-weather-night:{ .sun }
 
 === "Arithmatex & Math"
-
     !!! note ""
         - [Mathjax](https://www.mathjax.org/) ---- [LaTeX.Wikibooks](https://en.wikibooks.org/wiki/LaTeX/Mathematics) - 
         - [MathML.Wikipedia](https://en.wikipedia.org/wiki/MathML) - [AsciiMath](https://asciimath.org/)
@@ -51,15 +58,12 @@
         singleton set $e_G$, because otherwise $\exists a,b\in G$ with $a\neq b$ such
         that $f(a)=f(b)$.
 
-
 === "Icons & Emojis"
-
     !!! note ""
         [Icons](https://github.com/squidfunk/mkdocs-material/blob/master/material/templates/.icons/octicons/globe-16.svg) & [Emojipedia](https://emojipedia.org/flag-united-states#technical)
 
 
 === "Data tables"
-
     !!! note ""
 
         [Data tables, Alignment](https://squidfunk.github.io/mkdocs-material/reference/data-tables/#column-alignment-left)
@@ -136,7 +140,7 @@
         Content.
 
     ??? warning classes
-        Content.
+        Warning.
 
     ??? quote classes
         "Love you"

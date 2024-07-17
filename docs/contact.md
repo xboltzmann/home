@@ -5,7 +5,7 @@
 
 :fontawesome-brands-google:{ .google .child1 .child2 .child3 } mail: @ifuccyobitchjkluvu
 --
-:fontawesome-brands-youtube:{ .youtube } @studentious
+:fontawesome-brands-youtube:{ .youtube } @nobodyknows
 --
 :fontawesome-brands-instagram:{ .instagram } @nobodyknows
 --

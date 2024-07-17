@@ -1,4 +1,4 @@
-# Mentors, Teachers, Laoshu, Senseis - Homies
+# Mentors, Teachers, Laoshu, Senseis - Internet Homies
 <center>
     ``` title=""
 
@@ -9,10 +9,9 @@
     most importantly to keep moving forward and continuously put in the work and grow
 
     ``` 
-
+</center>
 
 ## 🧑🏽‍🏫 The humans 
-
 - [Joe Rogan](https://www.youtube.com/@joerogan)
 - [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
 - [Andrew Huberman](https://www.youtube.com/@hubermanlab)
@@ -25,10 +24,12 @@
 - [Robert Greene](https://www.youtube.com/@RobertGreeneOfficial)
 - [Israel Adesanya](https://www.youtube.com/@FreeStylebender):  Socials: [INSTAGRAM](https://www.instagram.com/stylebender/?hl=en) - [X](https://twitter.com/stylebender?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 - [Jensen Huang](https://www.linkedin.com/in/jenhsunhuang/)
+- [Richard P. Feynman](https://www.nobelprize.org/prizes/physics/1965/feynman/biographical/)
+- [Steve Jobs](https://www.biography.com/business-leaders/steve-jobs)
+- [Andrew Ng](https://www.andrewng.org/)
 
 
 ## 👨🏽‍⚕️ The other humans
-
 - [Paul Conti, MD](https://drpaulconti.com/) - Psychiatrist, Trauma, Mental illness, Impact of Stress 
 - [Bessel van der Kolk](https://www.besselvanderkolk.com/) - Psychiatrist, PTSD, Development, Memory
 - [Dr. David Yeager](https://www.linkedin.com/in/david-yeager-3713905/) - Growth Mindset, Developmental, Social, Personality and Educational Psychology

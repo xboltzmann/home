@@ -15,6 +15,7 @@ description: My Travels, Upcoming, Future-Travels, Visited Log
 ## 🧳 Upcoming Travels
 
 ``` {.py3 title="Upcoming"}
+- San Diego, CA (TBD)
 - TBA
 ```
 
@@ -82,7 +83,7 @@ description: My Travels, Upcoming, Future-Travels, Visited Log
     7. Cabo San Lucas, Mexico (2016?)
     8. Tulum, Mexico (Jan 2023)
     9. Milan-Como-Gargnano, Italy (June 2024)
-    10. Lugano-Lucerne, Switzerland (June 2024)
+    10. Lugano-Locarno-Lucerne, Switzerland (June 2024)
     11. TBC
     12. TBC
    
