@@ -8,6 +8,8 @@
 
     ps and gentle reminder: all i know is that i know nothing at all
 
+    pss: i suck at writing, so do more of it. to develop my own voice, put thoughts into words with clarity
+
 
 ## inspirational
 [Steve Jobs: Stanford '05 Commencement Speech](https://www.youtube.com/watch?v=Tuw8hxrFBH8&ab)

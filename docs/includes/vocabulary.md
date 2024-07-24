@@ -19,7 +19,7 @@
 *[numinous]: having a strong religious or spiritual quality; indicating or suggesting the presence of a divinity; divine will
 *[numinosity]: something that is defined by one's soul and not be the collective
 *[dogma]: living with the results of other people's thinking-expectations-beliefs
-
+*[articulo mortis]: at the point of death
 
 
 

@@ -9,6 +9,8 @@
     
     Recognize, appreciate and acknowledge, no matter how small (the progress) - is an improvement nonetheless
 
+    Start now - overcome your fear of failure, chase your dreams & find your meaning of life where you'll have the most impact on this world
+
 
 
 ## writing
@@ -64,3 +66,6 @@
 
 - If you choose the larger path, you are going to grow and develop - it's going to take something out of you, but it'll give something to you. If you don't, you life gets narrower and narrower and narrower - and something inside of you knows the difference. Sooner or later, the psyche is going to show up with its point of view. And the more we fled from that kind of question, that kind of conversation - the more pathology is going to erupt when we've avoided the big question
 
+
+## life-pt2
+1. Go towards the thing that gives you energy, the thing that excites you. The energy fuels the soul. Go all-in, focus and be fully committed, don't half-ass it, remove all distractions, be courageous, fearless & persistent and understand it will be hard, you will struggle, there will be doubters and the hardest pain is your inner-critic filled with fear & self-doubts. Be kind and gentle to yourself, prepare as much as you can by planning, start now and go chase your dreams & find *your* meaning of life. What is life if you are not pursuing something that is fulfilling & your soul yearns for? The alternate, is a life that you didn't try, didn't chase your dreams, and didn't believe in yourself.

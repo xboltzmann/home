@@ -18,6 +18,7 @@
 - [Lex Fridman](https://www.youtube.com/c/lexfridman)
 - [Chris Williamson](https://www.youtube.com/@ChrisWillx)
 - [Naval Ravikant](https://www.youtube.com/@NavalR)
+- [Jack Dorsey](https://x.com/jack)
 - [Tim Ferris](https://www.youtube.com/@timferriss)
 - [Dan Koe](https://www.youtube.com/@DanKoeTalks)
 - [Alex Hormozi](https://www.youtube.com/@AlexHormozi)
@@ -27,6 +28,8 @@
 - [Richard P. Feynman](https://www.nobelprize.org/prizes/physics/1965/feynman/biographical/)
 - [Steve Jobs](https://www.biography.com/business-leaders/steve-jobs)
 - [Andrew Ng](https://www.andrewng.org/)
+- [Hitomi Mochizuki](https://www.youtube.com/@HitomiMochizuki222)
+- [Graham Weaver](https://www.grahamweaver.com/)
 
 
 ## 👨🏽‍⚕️ The other humans
@@ -37,6 +40,12 @@
 - [Dr. Becky Kennedy](https://www.goodinside.com/about/) - Clinical Psychologist, Parenting and Sturdy Leadership, Raising Resilient and Emotionally Healthy Children, Parent-Child-Connection and Relationship, Social Interactions and Bonds, Attachment, Mindfulness and Healing
 - [Dr. Matt Walker](https://www.sleepdiplomat.com/) - Sleep Expert, Impact of sleep on human health & brain-function
 - [Dr. James Hollis](https://jameshollis.net/) - Jungian psychoanalyst, Self-Ego, Purpose in Life, Self-relationship, Family Dynamics and Trauma, The Shadow
+- [Carl Jung](https://www.thesap.org.uk/articles-on-jungian-psychology-2/carl-gustav-jung/) - Psychiatrist and Psychoanalyst, Jungian Analytical Psychology, Human Psyche and its Functioning
+
+
+## 🎶 The artists & musicians
+- [FKJ](https://frenchkiwijuice.com/)
+
 
 
 ## ⬛ The faceless 

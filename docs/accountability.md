@@ -16,3 +16,4 @@
 
 ## question thyself
 1. If today were the last day of my life, would I want to do what I am about to do today?
+2. What would I do if I knew I wouldn't fail?

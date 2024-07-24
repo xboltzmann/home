@@ -10,7 +10,7 @@
 
 
 
-## somebody
+## **somebody**
 *You do not know what treasures are within you.*
 
 *Sleep is an investment in tomorrow.*
@@ -34,7 +34,7 @@
 *Don't eat with people you wouldn't starve with. Hardship will show you who your real friends are.*
 
 
-## somebody else
+## **somebody else**
 sometimes life is going to hit you in the head with a brick - don't lose faith. you have got to find what you love and that is true for work as it is for your lovers. your work is going to fill a large part of your life, and the only way to be truly satisfied, is to do what *you* believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking and don't settle. As with all matters of the heart, you'll know when you find it. And like any relationship, it just gets better and better as the years roll on. so keep looking, **don't settle**. 
 -steve jobs (2005)
 
@@ -42,7 +42,7 @@ if today were the last day of my life, would I want to do what I am about to do 
 -steve jobs (2005)
 
 
-## nobody
+## **nobody**
 *I am not going to attack your character - your actions do that for you.*
 -nobody
 
@@ -55,10 +55,9 @@ if today were the last day of my life, would I want to do what I am about to do 
 *find something you truly love (to do-interests-curiosity-satisfaction, partner(s), friends, community/tribe, thyself), and you'll have the foundations/back-bone to endure anything (event, changes, life). you'll have the courage, the confidence (mentally, physically, emotionally, spiritually, intellectually) and the support to start over again. if you haven't found it yet, follow your heart and intuition, keep looking and don't settle*
 -nobody
 
-Something that seems to always fall true: As you age, these things only gets harder: <br>
+*Something that seems to always fall true: As you age, these things only gets harder: <br>*
+    1. ___relationships___: *planning/seeing/gathering/staying in touch friends & family;*<br>
+    2. ___health (physical)___: *pushing-gaining strength/power, maintenance-recovery,weight-management, metabolism-deterioration, weakened immune system, body functions-activities;*<br>
+    3. ___health (mental)___: *cognitive abilities, memory-loss-recollection, multi-tasking-attention*
 
-1. ___relationships___: planning/seeing/gathering/staying in touch friends & family;
-
-2. ___health (physical)___: pushing-gaining strength/power, maintenance-recovery,weight-management, metabolism-deterioration, weakened immune system, body functions-activities;
-   
-3. ___health (mental)___: cognitive abilities, memory-loss-recollection, multi-tasking-attention
+*Failure is a stepping-stone and part of the process of success, which leads to growth. Through experiencing failure, you will learn what did and didn't work, improve and/or accumulate new skillsets, to further develop into who you truly want to be(come). You will find no one in the history of human civilization who was successful and did not fail. Be courageous & overcome your fear of failure to unbound yourself from the constraints & restrictions limiting your infinite potential.*

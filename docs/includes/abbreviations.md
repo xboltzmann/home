@@ -57,6 +57,7 @@
 
 
 <!-- ## Internet -->
+*[CORS]: Cross-Origin Resource Sharing
 *[DDoS]: Distributed Denial of Service
 *[URL]: Uniform Resource Locator
 *[API]: Application Programming Interface
