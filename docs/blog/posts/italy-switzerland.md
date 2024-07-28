@@ -1,7 +1,7 @@
 ---
 draft: True
 date: 2024-06-10
-slug: milan-italy-lugano-switzerland
+slug: italy-switzerland
 categories:
   - Reflection
   - Travels
@@ -13,7 +13,7 @@ authors:
 
 # Milan, Italy : June 5 - June 7
 
-## June 5 : Day 1: Arrival
+## June 5 : Day 1 - Arrival
 I've flown to Milan, Italy from the east coast - the total in-air-flight time is approximately 10-hours. I had a layover in Barcelona, Spain for 3.5 hours. Flight got an hour-ish delayed departing from the east coast so layover time reduced. So here is how it looks:
 
   east coast -> Barcelona, Spain = 8-hours
@@ -30,7 +30,7 @@ We arrived at our accommodations in the late evening (9pm) and settled in and lo
 
 After completing the meal, the waitress said it is a tradition that after your first meal (I think) you are to take a shot of liquor. She was hella sweet and kind and said it was on the house.
 
-## June 6 : Day 2: City-Exploration
+## June 6 : Day 2 - City-Exploration
 Today was the day of city exploration. One of my favorite things to do aka do what the locals do, immersify and acclimate myself via taking the public transit (Red M line), walk around the city, check out parks, churches, people watch, understand the structure of the city with absolutely no fixed/strict plans nor time constraints and to just wander, get a little lost and enjoy/appreciate. This is my way of getting comfortable in a new city - a new place that I've never been to
 
 We departed early noon/afternoon (12:00-13:00) to find the train station transit (12ish minutes walk from accommodations). Struggled and was a bit confused at first and couldn't really understand it (dumb small-brained americanos) but after awhile we sorta made some sense of it and just followed the colors and decided where our destination. We decided to purchase a day ticket (8euros) which can take transit all day within the M2-Zone. Unlike the grid system in NYC, Milan has a circular-area-zone system (sorry a little confusing but bare with me), whereas the center/heart of Milan is M1, and the further you go out it goes to M2, M3, M4, etc.
@@ -45,10 +45,21 @@ For dinner, we found a spot (25-30 minutes walk) and after all day of walking, w
 
 A very productive day of exploring and lots of walking (30K steps).
 
-## June 7 : Day 3: Departure
+
+# Lugano-Paradiso-Locarno-Lucerne, Switzerland : June 7 - June 14
+
+## June 7: Day 3: Departure
 We depart from Milan today and drive up to Lugano, Switzerland (70ish-minutes from where we stayed, insanely close).
 
 TBC
 
-# Lugano & Paradiso, Switzerland : June 7 - June 14
+Full-day spa in Locarno at [Termali Salini & Spa Locarno](https://www.aqua-spa-resorts.ch/en/termali-salini-spa-locarno)
+
+
+# Como, Italy : June 14 - June 16
+
+
+# Gargnano, Italy : June 16 - June 19
+
+
 

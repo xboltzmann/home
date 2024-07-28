@@ -68,20 +68,28 @@ Seek the Truth
          - Fearlessness, Confidence & Grit: with your strong grasp of foundational knowledge and understanding, you have the confidence, fearless & grit to solve any & all problems - no problem is too big and there is a way (if you have the will)
          - Teach: through reps and iteration, you can pass on your experience & knowledge via explaining-simplifying and breaking down the complexities of it intricately, layer-by-layer
 
+
 ## Backend
+- [Node.js](https://nodejs.org/en)
+
+
+## Database
 - [Supabase](https://supabase.com/)
+- [MongoDB](https://www.mongodb.com/)
+- [MongoDB Compass](https://www.mongodb.com/products/tools/compass): GUI for MongoDB
 
 
-## 🤖 LLM/ML & AI
-
-Local RAG Agent via Python + Streamlit + Embedchain + Groq (Llama3)
-
+## 🤖 AI/ML, LLM & Agents
 - [Mistral](https://mistral.ai/)
 - [Llama](https://llama.meta.com/)
 - [ChatGPT](https://chatgpt.com/)
 - [Gemini](https://gemini.google.com/)
-- [Claude](https://claude.ai/)
+- [Claude x Anthropic](https://claude.ai/)
 - [NVIDIA NIM](https://build.nvidia.com/explore/discover)
+- [CrewAI](https://www.crewai.com/)
+- [LangChain x LangSmith](https://www.langchain.com/)
+- [LlamaIndex](https://www.llamaindex.ai/)
+- [HuggingFace](https://huggingface.co/)
 
 
 ## 📚 Learning: Web Design

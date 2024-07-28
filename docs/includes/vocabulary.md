@@ -20,6 +20,7 @@
 *[numinosity]: something that is defined by one's soul and not be the collective
 *[dogma]: living with the results of other people's thinking-expectations-beliefs
 *[articulo mortis]: at the point of death
+*[inhibitions]: an inner impediment to free activity, expression, or functioning; a mental process imposing restraint upon behavior or another mental process (such as a desire)
 
 
 

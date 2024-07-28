@@ -11,16 +11,23 @@ authors:
 ---
 
 
+<center>***subjects i cover & write about***</center>
+
+
 ## Love
 - Self-love
+
 
 ## Health
 - Breathe
 - Walk and/or Exercise
+
 
 ## Student
 - Growth Mindset
 - Read on what interests you
 - Learn constantly and consistently 
 
+
 ## Curiosity 
+- Technology holistically

@@ -57,6 +57,7 @@
 
 
 <!-- ## Internet -->
+*[SOP]: Standard Operating Procedure
 *[CORS]: Cross-Origin Resource Sharing
 *[DDoS]: Distributed Denial of Service
 *[URL]: Uniform Resource Locator

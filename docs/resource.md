@@ -17,13 +17,13 @@
     |         Word           |                  Description               |   Use-Case   |
     |  :-----------------:   | :----------------------------------------: |  ---------:  |
     |  `Javascript`          | language that makes web pages interactive  |  Framework   |
-    |  `insert word`         | :fontawesome-solid-question: define |
-    |  `insert word`         | :fontawesome-solid-question: define |
-    |  `insert word`         | :fontawesome-solid-question: define |
-    |  `insert word`         | :fontawesome-solid-question: define |
-    |  `insert word`         | :fontawesome-solid-question: define |
-    |  `insert word`         | :fontawesome-solid-question: define |
-    |  `insert word`         | :fontawesome-solid-question: define | 
+    |  `Bourne Shell (.sh)`  | shell script, a command programming language for UNIX-like system |  Shell/Terminal   |
+    |  `insert word`         | :fontawesome-solid-question: define |  input
+    |  `insert word`         | :fontawesome-solid-question: define |  input
+    |  `insert word`         | :fontawesome-solid-question: define |  input
+    |  `insert word`         | :fontawesome-solid-question: define |  input
+    |  `insert word`         | :fontawesome-solid-question: define |  input
+    |  `insert word`         | :fontawesome-solid-question: define |  input 
 
 
 

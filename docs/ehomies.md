@@ -45,7 +45,15 @@
 
 ## 🎶 The artists & musicians
 - [FKJ](https://frenchkiwijuice.com/)
-
+- [J. Cole](https://www.dreamville.com/artist/cole/)
+- [Glass Animals](https://www.glassanimals.com/)
+- [Billie Eilish](https://store.billieeilish.com/pages/tour)
+- [Frank Ocean](https://blonded.co/)
+- [Justin Bieber](https://www.justinbiebermusic.com/)
+- [Russ](https://www.russworld.com/)
+- [Jeremy Zucker](https://www.jeremyzuckermusic.com/)
+- [Porter Robinson](https://porterrobinson.com/)
+- [Drake](https://drakerelated.com/rooms/studio)
 
 
 ## ⬛ The faceless 

@@ -18,6 +18,7 @@
 9. [GitHub](https://github.com/): Platform for all things coding, programming, software, web, development, version control, ci/cd 
 10. [Arc Browser](https://arc.net/)
 11. [Webflow](https://webflow.com/): Web design & development, brainstorm, creativity
+12. [Framer](https://framer.com/): Web design & development, brainstorm, creativity, variations
 
 
 ## Backup Toolkit
