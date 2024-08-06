@@ -21,44 +21,5 @@
 *[dogma]: living with the results of other people's thinking-expectations-beliefs
 *[articulo mortis]: at the point of death
 *[inhibitions]: an inner impediment to free activity, expression, or functioning; a mental process imposing restraint upon behavior or another mental process (such as a desire)
-
-
-
-<!-- > **psyche**: the human soul, mind, or spirit;  -->
-
-<!-- --- -->
-
-<!-- > **focused-awareness**: goal directed behavior; directed, purposeful behavior; historically associated with the masculine
-
---- -->
-
-<!-- > **diffused-awareness**: awareness of context, connections and of relationship; relatedness
-
---- -->
-
-<!-- > **pathology (pathos + logos)**: the expression of the suffering   
->>- *pathos (greek)*: suffering
->>- *logos (greek)*: expression of   
-
---- -->
-
-<!-- > **psychopathology**: the expression of the suffering of the soul
-
---- -->
-
-<!-- > **gelassenheit**: serenity; the condition of having let go, to let be
-
---- -->
-
-<!-- > **solomonic-wisdom**: very wise, notable wisdom, reasonableness-rationality
-
---- -->
-
-<!-- > **psychotherapy**: to listen to or pay attention to the soul
-
----  -->
-
-<!-- > **confabulate**: to engage in conversation/talk; (psychiatry): fabricate imaginary experiences as compensation for loss of memory
-
---- -->
+*[eudaimonia]: essence of human flourishing; a term used to describe overall well-being, rather than just a fleeting moment of happiness; to the virtues or excellence of something
 

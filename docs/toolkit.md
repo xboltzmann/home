@@ -8,7 +8,7 @@
 
 ### My Toolkit (must haves)
 1. [Notion](https://www.notion.so/): Productivity, Organization, Collaboration, Research & Planning
-2. [Obsidian](https://obsidian.md/)
+2. [Obsidian](https://obsidian.md/): Organized Connectivity of Notes & Thoughts
 3. [ChatGPT](https://chat.openai.com/): Brainstorm, Research, Creativity, Assistant
 4. [Claude](https://claude.ai/new): Brainstorm, Research, Creativity, Assistant
 5. Llama 3: Brainstorm, Research, Creativity, Assistant

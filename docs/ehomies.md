@@ -30,6 +30,7 @@
 - [Andrew Ng](https://www.andrewng.org/)
 - [Hitomi Mochizuki](https://www.youtube.com/@HitomiMochizuki222)
 - [Graham Weaver](https://www.grahamweaver.com/)
+- [Randy Pausch](https://www.cmu.edu/randyslecture/story/)
 
 
 ## 👨🏽‍⚕️ The other humans
@@ -41,6 +42,7 @@
 - [Dr. Matt Walker](https://www.sleepdiplomat.com/) - Sleep Expert, Impact of sleep on human health & brain-function
 - [Dr. James Hollis](https://jameshollis.net/) - Jungian psychoanalyst, Self-Ego, Purpose in Life, Self-relationship, Family Dynamics and Trauma, The Shadow
 - [Carl Jung](https://www.thesap.org.uk/articles-on-jungian-psychology-2/carl-gustav-jung/) - Psychiatrist and Psychoanalyst, Jungian Analytical Psychology, Human Psyche and its Functioning
+- [Alan Watts](https://alanwatts.org/)
 
 
 ## 🎶 The artists & musicians

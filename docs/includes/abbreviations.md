@@ -143,6 +143,7 @@
 
 
 <!-- ## Misc lower-case -->
+*[imo]: in my opinion
 *[atm]: at the moment
 *[btw]: by the way
 *[ie]: id est ("that is")
@@ -151,3 +152,8 @@
 *[ps]: postscriptum ("written after")
 
 
+
+<!-- ## installing via package managers  -->
+*[npx]: Node Package eXecute, to execute any Javascript Package available on the NPM registry without even installing it
+*[npm]: package manager for the JavaScript programming language
+*[pip]: package-management system written in Python and is used to install and manage software packages

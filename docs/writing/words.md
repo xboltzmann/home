@@ -61,3 +61,5 @@ if today were the last day of my life, would I want to do what I am about to do 
     3. ___health (mental)___: *cognitive abilities, memory-loss-recollection, multi-tasking-attention*
 
 *Failure is a stepping-stone and part of the process of success, which leads to growth. Through experiencing failure, you will learn what did and didn't work, improve and/or accumulate new skillsets, to further develop into who you truly want to be(come). You will find no one in the history of human civilization who was successful and did not fail. Be courageous & overcome your fear of failure to unbound yourself from the constraints & restrictions limiting your infinite potential.*
+
+*nothing of value is easy*

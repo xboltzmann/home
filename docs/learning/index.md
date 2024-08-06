@@ -44,11 +44,11 @@ Seek the Truth
     6. Package Managers (ie., npm, Yarn): These tools help manage project dependencies and libraries, making it easier to install, update, and configure them.
 
 ??? info "what are some software & technologies to develop/build frontend?"
-    1. Version Control Systems (eg., Git): These systems help manage changes to the codebase, allowing developers to collaborate and maintain a history of their work.
+    1. Version Control Systems (eg., Git, GitHub): These systems help manage changes to the codebase, allowing developers to collaborate and maintain a history of their work.
     2. Code Editors and IDEs (eg., Visual Studio Code, Sublime Text): These software/technologies provide an environment for writing and editing code, with features like syntax highlighting, code completion, and debugging support.
 
 ??? question "why is it important?"
-    The frontend is often contrasted with the backend, which refers to the server-side logic, database integration, and API connectivity that powers the application. While the frontend focuses on user interaction and UI, the backend handles data storage, processing, and retrieval.
+    The frontend is often contrasted with the backend, which refers to the server-side logic, database integration, and API connectivity that powers the application. While the frontend focuses on user interaction and UI, the backend handles data storage, processing, retrieval & functionalities of it
 
     The frontend is a critical aspect of software development, web design, and technology, as it directly impacts the user's experience and interaction with an application.
 
@@ -70,6 +70,49 @@ Seek the Truth
 
 
 ## Backend
+??? question "what is backend?"
+    the backend refers to the server-side of an application, responsible for managing data, performing logic, and providing services to the frontend (client-side). It's the unseen, behind-the-scenes infrastructure & the magic juice that powers the user interface, handling tasks/requests and is the foundation of a web application, providing the necessary functionalities for frontend
+
+??? info "what is backend responsible for?"
+    1. Databases (DB): designing, implementing, querying managing, storing, & retrieving data
+    2. Application Programming Interfaces (APIs): connecting with third-party services and APIs to retrieve information and/or utilize
+    3. Service-side logic: executing business logic, calculations, and algorithms
+    4. Architecture: 
+    5. Authentication & Authorization: handling user authentication and authorization, roles, permissions, security, accessibility to features
+    6. User requests: processing requests from the frontend (user clicks on login and inputs information & validates) and returning responses.
+    7. Functionality, Testing & Debugging: writing tests, debugging, & logging to ensure its utility is working & the reliability & stability
+    8. Server: the computer or virtual machine hosting & deploying the application, performance optimization, handling traffic, scaling high loads, stability
+    9. Testing & Debugging: writing tests, debugging, & logging to ensure reliability & stability
+
+??? info "what are some programming languages, frameworks, tools/software & technologies to develop & build the backend?" 
+    Frameworks:
+    1. Node.js (Express, Hono, Nextjs)
+    2. Django (Python)
+    3. Flask (Python)
+    4. Spring Boot (Java)
+    5. Ruby on Rails (Ruby)
+    6. Laravel (PHP)
+    Database Management Systems: 
+       1. Relational: Supabase (PostgreSQL), MySQL, PostgreSQL, Microsoft SQL Server
+       2. NoSQL: MongoDB, Cassandra, Redis
+       3. Supabase: PostgreSQL, Database, Auth
+       4. Drizzle ORM (JS & TS): PostgreSQL, MySQL, SQLite, GraphQL
+       5. Prisma ORM 
+       6. Turso (SQLite)
+       7. Neon (Serverless Postgres)
+    Hosting & Deployment:
+        1. Yolo
+        2. Yolo2
+    Testing, Monitoring & Debugging:
+      1. Jest (JavaScript): A popular testing framework for building robust applications.
+      2. Pytest (Python): A popular testing framework for building robust applications.
+      3. Postman: A tool for testing and debugging APIs.
+    Hosting & Deployment:
+
+??? question "why is it important?"
+
+??? question "what learning backend will do for me?"
+    
 - [Node.js](https://nodejs.org/en)
 
 

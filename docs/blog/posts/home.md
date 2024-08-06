@@ -11,6 +11,7 @@ authors:
   - Nobody
 ---
 
+
 # I am home
 
 I've flown to the east-coast, to the place that I call my first home. Where I was born and raised, where I got my education, where I got my first job, where my parents resides, where most of my friends & family are and where I spent and experienced most of my formative life (25+ years).
