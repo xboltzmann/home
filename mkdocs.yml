@@ -147,8 +147,6 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/xboltzmann
-    #- icon: fontawesome/brands/twitter
-    #  link: https://twitter.com/N0FACEG0D
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/eduardboltzmann/
 
@@ -172,6 +170,15 @@ plugins:
   #     categories:
   #       - categories
   #       - tags 
+  - social:
+      cards_layout: default/variant
+      cards_layout_options:
+        background_image: layouts/background.png
+        font_family: Ubuntu
+        title: Bamboo Garden Center
+        logo: 
+    
+  
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   # - minify:

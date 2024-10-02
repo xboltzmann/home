@@ -1,4 +1,5 @@
 
+
 !!! Projects
     <center>TBA :octicons-code-square-16:<center>
 
@@ -34,37 +35,20 @@
 
 <div class="grid cards" markdown>
 
-<!-- -   :material-clock-fast:{ .lg .middle } __Set up in 5 minutes__
-
-    ---
-
-    Install [`mkdocs-material`](#) with [`pip`](#) and get up
-    and running in minutes
-
-    [:octicons-arrow-right-24: Getting started](#)
-
--   :fontawesome-brands-markdown:{ .lg .middle } __It's just Markdown__
-
-    ---
-
-    Focus on your content and generate a responsive and searchable static site
-
-    [:octicons-arrow-right-24: Reference](#)
-
--   :material-format-font:{ .lg .middle } __Made to measure__
-
-    ---
-
-    Change the colors, fonts, language, icons, logo and more with a few lines
-
-    [:octicons-arrow-right-24: Customization](#)
-
--   :material-scale-balance:{ .lg .middle } __Open Source, MIT__
-
-    ---
-
-    Material for MkDocs is licensed under MIT and available on [GitHub]
-
-    [:octicons-arrow-right-24: License](#) -->
-
 </div>
+
+## Project 1: :material-application:{ .lg .middle } Daycare Website 
+<div class="grid cards" markdown>
+
+-   :material-application:{ .lg .middle } [:octicons-arrow-right-24:](#)  [__Bamboo Garden Early Learning & Care Center__](https://bamboogardenquincy.com/)
+
+    ---
+    ![](img/header.webp){  width=150 height=150 align=left }
+    
+    ### Tech
+    ---
+    <div columns>
+    - __JavaScript x TypeScript x React x TailwindCSS__ 
+    <div columns>
+    - __Cloudflare Pages__
+    </div>

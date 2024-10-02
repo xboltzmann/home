@@ -1,5 +1,6 @@
 
 <!-- ## Programming, Products, Web Technology, Development, Processes -->
+*[SSR]: Server-Side Rendering
 *[HTML]: Hyper Text Markup Language
 *[JS]: Javascript
 *[JSON]: JavaScript Object Notation

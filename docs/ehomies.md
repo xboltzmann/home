@@ -31,6 +31,7 @@
 - [Hitomi Mochizuki](https://www.youtube.com/@HitomiMochizuki222)
 - [Graham Weaver](https://www.grahamweaver.com/)
 - [Randy Pausch](https://www.cmu.edu/randyslecture/story/)
+- [Pieter Levels](https://x.com/levelsio)
 
 
 ## 👨🏽‍⚕️ The other humans

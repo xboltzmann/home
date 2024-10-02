@@ -15,6 +15,15 @@
 
 ``` 
 
+``` title="📖 How to Learn & Retain"
+
+1. Study/Read/Digest
+2. Practice/Do/Exercise
+3. Teach/Test
+4. Document/Reflect
+
+``` 
+
 ``` title=""
 Improvements via Reps & Iteration
 
@@ -86,27 +95,31 @@ Seek the Truth
 
 ??? info "what are some programming languages, frameworks, tools/software & technologies to develop & build the backend?" 
     Frameworks:
-    1. Node.js (Express, Hono, Nextjs)
-    2. Django (Python)
-    3. Flask (Python)
-    4. Spring Boot (Java)
-    5. Ruby on Rails (Ruby)
-    6. Laravel (PHP)
+       1. Node.js (Express, Hono, Nextjs)
+       2. Django (Python)
+       3. Flask (Python)
+       4. Spring Boot (Java)
+       5. Ruby on Rails (Ruby)
+       6. Laravel (PHP)
     Database Management Systems: 
-       1. Relational: Supabase (PostgreSQL), MySQL, PostgreSQL, Microsoft SQL Server
-       2. NoSQL: MongoDB, Cassandra, Redis
-       3. Supabase: PostgreSQL, Database, Auth
-       4. Drizzle ORM (JS & TS): PostgreSQL, MySQL, SQLite, GraphQL
-       5. Prisma ORM 
-       6. Turso (SQLite)
-       7. Neon (Serverless Postgres)
+     1. Relational: Supabase (PostgreSQL), MySQL, PostgreSQL, Microsoft SQL Server
+     2. NoSQL: MongoDB, Cassandra, Redis
+     3. Supabase: PostgreSQL, Database, Auth
+     4.  Drizzle ORM (JS & TS): PostgreSQL, MySQL, SQLite, GraphQL
+     5.  Prisma ORM 
+     6.  Turso (SQLite)
+     7.  Neon (Serverless Postgres)
     Hosting & Deployment:
-        1. Yolo
-        2. Yolo2
+    1.  Cloudflare Pages
+    2.  Vercel
+    3.  Netlify
+    4.  DigitalOcean
+    5.  Heroku
+    6.  Coolify
     Testing, Monitoring & Debugging:
-      1. Jest (JavaScript): A popular testing framework for building robust applications.
-      2. Pytest (Python): A popular testing framework for building robust applications.
-      3. Postman: A tool for testing and debugging APIs.
+      1.  Jest (JavaScript): A popular testing framework for building robust applications.
+      2.  Pytest (Python): A popular testing framework for building robust applications.
+      3.  Postman: A tool for testing and debugging APIs.
     Hosting & Deployment:
 
 ??? question "why is it important?"
@@ -135,11 +148,24 @@ Seek the Truth
 - [HuggingFace](https://huggingface.co/)
 
 
-## 📚 Learning: Web Design
+## Hosting & Deployment
+- [Vercel](https://vercel.com/)
+- [Netlify](https://www.netlify.com/)
+- [Heroku](https://www.heroku.com/)
+- [AWS](https://aws.amazon.com/)
+- [Digital Ocean](https://www.digitalocean.com/)
+- [Google Cloud](https://cloud.google.com/)
+- [Azure](https://azure.microsoft.com/)
+
+
+## 📚 Learning: No-code Web Design
 
 [Framer](https://www.framer.com/): Framer, is a React-based design tool that focuses on creating interactive prototypes and animations. It allows designers to design, code, and collaborate on projects seamlessly. Framer’s strength lies in its ability to bridge the gap between design and development, enabling designers to create high-fidelity prototypes that can be easily handed off to developers.
 
 [Webflow](https://webflow.com/): Webflow is a no-code platform that allows users to design, build, and launch responsive websites without the need for extensive coding knowledge. With its intuitive visual editor and a wide range of customization options, Webflow empowers users to create professional-looking websites with ease. The platform also offers e-commerce functionality, CMS capabilities, and a robust hosting service, making it a one-stop-shop for web development.
 
+[Figma](https://www.figma.com/): Figma is a web-based design tool that allows users to create, prototype, and collaborate on designs. It offers a wide range of features, including vector editing, prototyping, and collaboration tools, making it a versatile tool for designers and developers alike.
+
 
 ## 🧑🏾‍💻 Web Development: HTML, JS, CSS, React, Typescript, Nextjs, ++
+

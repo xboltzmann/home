@@ -1,5 +1,5 @@
 ---
-draft: True
+draft: False
 date: 2024-08-06
 slug: italy-switzerland
 categories:
@@ -161,11 +161,13 @@ Dope and chill day.
 **Day 18,** the departure. We made sure to arrive on-time so we gave us a lot of additional time incase of delays. Luckily we did as when we were returning the car, there was people that took their time, as if they were actually shopping for a car and the workers were fairly slow. It may be the way of life (I suspect), no rush and just in their own pace. It took almost 90-minutes to return the car.
 
 # Closing Notes
-Overall, it was such a great time exploring Italy & Switzerland. I was there for 18 days and I am confident that I can go there and be able to maneuver around without any issues. Comfortable in their transit, comfortable in driving around. comfortable in walking around.
+Overall, it was such a great time exploring Italy & Switzerland. I was there for 18 days and I am confident that I can go there and be able to maneuver around without any issues. Comfortable in their transit, comfortable in driving around, comfortable in walking around.
 
 Such beautiful countries with beautiful people, rich in culture, history & life.
 
 Without a doubt, I'll be back.
+
+Love you Italy & Switzerland.
 
 
 
